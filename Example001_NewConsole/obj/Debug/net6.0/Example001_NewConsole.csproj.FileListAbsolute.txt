@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.exe
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.deps.json
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.dll
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\bin\Debug\net6.0\Example001_NewConsole.pdb
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.dll
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\refint\Example001_NewConsole.dll
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.pdb
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\Example001_NewConsole.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Гит\Example\Example001_NewConsole\obj\Debug\net6.0\ref\Example001_NewConsole.dll
